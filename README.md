@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipecoding&label=Profile%20views&color=0e75b6&style=flat" alt="lipecoding" /> </p>
 
 - 💬 Ask me about **C#, Java, JS**
+- 🔭 I’m currently working on [BAC---MongoDB](https://github.com/lipecoding/BAC---MongoDB)
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
-  <img height="180em" width ="360em" src="https://github-readme-stats.vercel.app/api?username=lipecoding&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width ="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecoding&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" width ="420em" src="https://github-readme-stats.vercel.app/api?username=lipecoding&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width ="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecoding&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
