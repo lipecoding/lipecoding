@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on [BAC---MongoDB](https://github.com/lipecoding/BAC---MongoDB)
 
 <div align="center">
-  <a href="https://github.com/davidluiz91">
   <img height="180em" width ="400em" src="https://github-readme-stats.vercel.app/api?username=lipecoding&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" width ="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecoding&layout=compact&langs_count=7&theme=transparent"/>
 </div>
