@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipecoding&label=Profile%20views&color=0e75b6&style=flat" alt="lipecoding" /> </p>
 
 - 💬 Ask me about **C#, Java, JS**
-- 🔭 I’m currently working on [BAC---MongoDB](https://github.com/lipecoding/BAC---MongoDB)
+- 🔭 I’m currently working on [FoodSys](https://github.com/Bite-s-Team/FoodSys)
 
 <div align="center">
   <img height="180em" width ="400em" src="https://github-readme-stats.vercel.app/api?username=lipecoding&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
